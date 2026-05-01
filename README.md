@@ -11,4 +11,4 @@ A dynamic weather application that allows users to search for any city and view 
 - JavaScript
 
 ## 🌍 Live Demo
-Coming soon..
+https://weather-app-phi-eight-80.vercel.app
